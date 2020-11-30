@@ -1,0 +1,3 @@
+[INFO ]10:10:17 tank_logger.go:34: [cron job] Every day 00:00 maintain log file.
+[WARN ]10:10:17 tank_config.go:120: cannot find config file /home/hehe/mytest/tank/conf/tank.json, installation will start!
+[INFO ]10:10:17 tank_application.go:153: App started at http://localhost:6010

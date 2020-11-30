@@ -1,0 +1,5 @@
+[INFO ]10:10:40 tank_logger.go:34: [cron job] Every day 00:00 maintain log file.
+[WARN ]10:10:40 tank_config.go:124: read config file /home/hehe/mytest/tank/build/conf/tank.json
+[ERROR]10:10:40 tank_config.go:56: MysqlUsername  is not configured
+[ERROR]10:10:40 tank_config.go:140: config file not integrity, installation will start!
+[INFO ]10:10:40 tank_application.go:153: App started at http://localhost:6010
